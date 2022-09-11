@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Poppins&family=Roboto+Slab&display=swap');
+
+
+.navbar-nav{
+	font-size: 24px;
+	font-family: montserrat sans-serif;
+}
+.tile{
+	font-size: 2em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+.main{
+	margin-top: 160px;
+	height: 70vh;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.h1{
+	padding-top:24px;
+	font-size: 1.5em;
+}
+.brief{
+ font-size: 1em;
+ padding: 20px;
+ font-weight: lighter;
+ font-family: 'Roboto Slab', serif;
+ color: white;
+}
+.text-center1{
+ margin-left:10em;
+  font-size: 2em
+}
+.form{
+	margin-top:200px;
+}
